@@ -21,5 +21,8 @@
   "homepage": "https://github.com/eclevela-1234/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
